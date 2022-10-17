@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Juara Compose Task Manager</string>
+    <string name="title">All tasks completed</string>
+    <string name="message">Nice work!</string>
+</resources>
